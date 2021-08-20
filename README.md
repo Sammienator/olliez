@@ -1,2 +1,2 @@
 # olliez
-this is a e commerce website project
+this is an e commerce website project
